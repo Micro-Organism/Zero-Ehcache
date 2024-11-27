@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: zero-ehcache-boot
+    cache:
+        ehcache:
+            config: classpath:config/encache.xml
